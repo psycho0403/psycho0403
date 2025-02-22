@@ -4,7 +4,7 @@
 Hi, I'm a student studying Game Development. I am passionate when it comes to games and programming.
 I have previously completed curses in both C# and C++ furthermore I'd say that I'm deeply experienced in using Unity,
 having created a handful of school projects with it,
-as well as being experienced with scripting and optimizing gameplay systems and other applications for my school projects.
+as well as being experienced with scripting and optimizing gameplay systems and other applications for those projects.
 
 ---
 
