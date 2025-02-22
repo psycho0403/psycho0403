@@ -20,19 +20,19 @@ as well as being experienced with scripting and optimizing gameplay systems and 
 - **Description**: Briefly explain what the project is about.
 - **Technologies Used**: Unreal Engine, Visual Studio, C#
 - **Screenshot**:
-  ![Project Screenshot]((https://github.com/psycho0403/psycho0403/blob/main/Sushi_2_Go_Banner))
+  ![Project Screenshot](https://github.com/psycho0403/psycho0403/blob/main/Sushi_2_Go_Banner)
 
 ### 🛠️ [Daggerbound](https://github.com/yourusername/project2)
 - **Description**: What makes this project unique?
 - **Technologies Used**: Unreal Engine, Visual Studio, C#
 - **Screenshot**:
-  ![Project Screenshot]((https://github.com/psycho0403/psycho0403/blob/main/DaggerboundBanner.png))
+  ![Project Screenshot](https://github.com/psycho0403/psycho0403/blob/main/DaggerboundBanner.png)
 
 ### 🔍 [Network Project]([(https://github.com/psycho0403/NetworkProject)])
 - **Description**: Key features and mechanics.
 - **Technologies Used**: Unreal Engine, Visual Studio, C#
 - **Screenshot**:
-  ![Project Screenshot]((https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture))
+  ![Project Screenshot](https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture)
 
 ---
 
