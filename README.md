@@ -32,11 +32,13 @@ Most notable functions I was heavily involved in was the respawning system and t
 </div>
 
 ### [Network Project](https://github.com/psycho0403/NetworkProject)
-- **Description**: Key features and mechanics.
-- **Technologies Used**: Unreal Engine, Visual Studio, C#
+- **Description**: A small school project where I successfully managed to create a working game prototype with server connection capabilities.
+Developed alone to test my skills this small project help me learn the ins and outs of creating a functioning network
+- **Technologies Used**: Unity Game Engine, Visual Studio, C#
 <div align="center">
  <img src="https://github.com/psycho0403/psycho0403/blob/main/NetworkProject_showcasePicture" width="400" height="400">
 </div>
+
 ---
 
 ## ⚙️ Technical Skills Demonstrations
