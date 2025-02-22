@@ -40,7 +40,6 @@ Most notable functions I was heavily involved in was the respawning system and t
 ---
 
 ## ⚙️ Technical Skills Demonstrations
-- **AI & Pathfinding**: Implemented Dijkstra's algorithm so an A.I could navigate through a level.
 - **Dialog Systems**: Developed a simple to use dialog system with branching paths supported.
 - **Networking system**: Implemented a simple game project supporting server and network connection between host and client.
 
