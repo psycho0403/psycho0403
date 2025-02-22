@@ -1,5 +1,4 @@
-```markdown
-# 🎮 Programming Portfolio
+<h1> # 🎮 Programming Portfolio :</h2>
 
 ## 👋 About Me
 Hi, I'm a student studying Game Development. I am passionate when it comes to games and programming.
@@ -57,4 +56,3 @@ as well as being experienced with scripting and optimizing gameplay systems and 
 ---
 
 ⭐ **Check out my projects and feel free to connect!**
-```
