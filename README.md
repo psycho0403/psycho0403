@@ -31,7 +31,7 @@ Most notable functions I was heavily involved in was the respawning system and t
   <img src="https://github.com/psycho0403/psycho0403/blob/main/DaggerboundBanner.png">
 </div>
 
-### 🔍 [Network Project]([(https://github.com/psycho0403/NetworkProject)])
+### 🔍 [Network Project](https://github.com/psycho0403/NetworkProject)
 - **Description**: Key features and mechanics.
 - **Technologies Used**: Unreal Engine, Visual Studio, C#
 <div align="center">
