@@ -43,9 +43,13 @@ Developed alone to test my skills this small project help me learn the ins and o
 
 ## ⚙️ Technical Skills Demonstrations
 - **Dialog Systems**: Developed a simple to use dialog system with branching paths supported.
-   <div align="center">
-  <img src="https://github.com/psycho0403/Daggerbound/blob/main/DialogInGame.png">
+   <div align="left">
+  <img src="https://github.com/psycho0403/Daggerbound/blob/main/DialogInGame.png" width="500" height="200">
+     <a href="https://github.com/psycho0403/Daggerbound/blob/main/BasicDialogSystemShowcase.mp4">
+  <img src="thumbnail.png" width="500">
+</a>
   </div>
+
 - **Networking system**: Implemented a simple game project supporting server and network connection between host and client.
   <div align="center">
   <img src="https://github.com/psycho0403/NetworkProject/blob/main/NetworkMovementsynk.png">
