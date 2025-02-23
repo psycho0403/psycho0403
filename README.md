@@ -1,6 +1,6 @@
 <h1> # 🎮 Programming Portfolio :</h2>
 
-## 👋 About Me
+## 👋 About Me, Gustaf Ekstrand
 Hi, I'm a student studying Game Development. I am passionate when it comes to games and programming.
 I have previously completed curses in both C# and C++ furthermore I'd say that I'm deeply experienced in using Unity,
 having created a handful of school projects with it,
