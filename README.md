@@ -19,14 +19,14 @@ as well as being experienced with scripting and optimizing gameplay systems and 
 ### [Sushi 2 Go](https://github.com/psycho0403/Sushi-2-Go/tree/main)
 - **Description**: Sushi 2 Go is a game project where the player endlessly runs on a conveyor belt to get as high of a score as possible.
 Functions I worked on Include the player's fixed movement on a dynamic array, some camera work and effects and creating virtual gravity for the player. As well as the audio and audio management systems.
-- **Technologies Used**: Unreal Engine, Visual Studio, C#
+- **Technologies Used**: Unity Game Engine, Visual Studio, C#
   ![Project Screenshot](https://github.com/psycho0403/psycho0403/blob/main/Sushi_2_Go_Banner)
 
 ### [Daggerbound](https://github.com/psycho0403/Daggerbound)
 - **Description**: DaggerBound is a school project where we were tasked to create a top view RPG game, there were some management issues that needed overcoming and we all learned from our mistakes
 Most notable functions I was heavily involved in was the respawning system and the Dialog System.
 
-- **Technologies Used**: Unreal Engine, Visual Studio, C#
+- **Technologies Used**: Unity Game Engine, Visual Studio, C#
 <div align="center">
   <img src="https://github.com/psycho0403/psycho0403/blob/main/DaggerboundBanner.png">
 </div>
