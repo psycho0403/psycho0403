@@ -20,12 +20,12 @@ as well as being experienced with scripting and optimizing gameplay systems and 
 - **Description**: Sushi 2 Go is a game project where the player endlessly runs on a conveyor belt to get as high of a score as possible.
 Functions I worked on Include the player's fixed movement on a dynamic array, some camera work and effects and creating virtual gravity for the player. As well as the audio and audio management systems.
 - **Technologies Used**: Unity Game Engine, Visual Studio, C#
+  
   ![Project Screenshot](https://github.com/psycho0403/psycho0403/blob/main/Sushi_2_Go_Banner)
 
 ### [Daggerbound](https://github.com/psycho0403/Daggerbound)
 - **Description**: DaggerBound is a school project where we were tasked to create a top view RPG game, there were some management issues that needed overcoming and we all learned from our mistakes
 Most notable functions I was heavily involved in was the respawning system and the Dialog System.
-
 - **Technologies Used**: Unity Game Engine, Visual Studio, C#
 <div align="center">
   <img src="https://github.com/psycho0403/psycho0403/blob/main/DaggerboundBanner.png">
@@ -46,13 +46,13 @@ Developed alone to test my skills this small project help me learn the ins and o
    <div align="left">
   <img src="https://github.com/psycho0403/Daggerbound/blob/main/DialogInGame.png" width="500" height="200">
      <a href="https://github.com/psycho0403/Daggerbound/blob/main/BasicDialogSystemShowcase.mp4">
-  <img src="thumbnail.png" width="500">
+  <img src="https://github.com/psycho0403/psycho0403/blob/main/DialogshowcaseThumbnail.png" width="400" height="200">
 </a>
   </div>
 
 - **Networking system**: Implemented a simple game project supporting server and network connection between host and client.
   <div align="center">
-  <img src="https://github.com/psycho0403/NetworkProject/blob/main/NetworkMovementsynk.png">
+  <img src="https://github.com/psycho0403/NetworkProject/blob/main/NetworkMovementsynk.png" height="400">
   </div>
 
 ---
